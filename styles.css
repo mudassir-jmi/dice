@@ -1,0 +1,62 @@
+html{
+  background-color: #e4e9fd;
+  background-image: -webkit-linear-gradient(65deg,#a683e3 50%,#e4e9fd 50%);
+  min-height: 700px;
+  font-family: 'helvetica neue';
+}
+
+
+.pl2{
+  position: absolute;
+  right: 10%;
+
+}
+
+ .player{
+   background:white;
+   height: 300px;
+   width: 300px;
+   position: absolute;
+   top: 10%;
+ }
+ .pl1{
+   position: absolute;
+   left: 10%;
+ }
+ .head{
+   margin: 10%;
+ }
+ .num{
+   font-size: 50px;
+   background-color:;
+   position:absolute;
+   left:40%;
+   top:20%;
+ }
+
+
+
+  .box{
+    max-width: 400px;
+    margin: 50px auto;
+    background: white;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 5px 5px 15px -5px rgba(0,0,0,0.3);
+  }
+
+  #plwin{
+    background-color: #a683e3;
+    text-align: center;
+    padding: 10px;
+  }
+
+
+
+.img{
+  margin: 10%;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 25%;
+}
